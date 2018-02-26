@@ -7,4 +7,4 @@ Contains scripts to pack and publish official [Swagger Code Gen](https://github.
 
  Version | Binary Taken From | Nuget Package
 ---------|------ | ----
- 2.3.1 | http://central.maven.org/maven2/io/swagger/swagger-codegen-cli/2.3.1/swagger-codegen-cli-2.3.1.jar | 
+ 2.3.1 | http://central.maven.org/maven2/io/swagger/swagger-codegen-cli/2.3.1/swagger-codegen-cli-2.3.1.jar | [https://www.nuget.org/packages/Steinpilz.SwaggerCodeGenTool/2.3.1](https://www.nuget.org/packages/Steinpilz.SwaggerCodeGenTool/2.3.1)
