@@ -1,0 +1,12 @@
+type file
+id Steinpilz.SwaggerCodeGenTool
+version 1.0.0
+authors steinpilz ivanbianko
+title Swagger CodeGen binary
+projectUrl https://github.com/Steinpilz/swagger-codegen-nuget
+licenseUrl https://github.com/Steinpilz/swagger-codegen-nuget/blob/master/LICENSE
+tags swagger codegen binary swaggercodegen
+description
+  Contains official swagger-codegen-cli.jar binary in tools folder. Checkout https://github.com/swagger-api/swagger-codegen for more information
+files
+  .artifacts/bin/**/* ==> tools
